@@ -1,4 +1,4 @@
-# End User License Agreement  
+# Commercial Projects - EULA 
 
 Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
@@ -16,82 +16,54 @@ This document explains the usage terms for **open-source** products (apps/tools)
 
 <br />
 
-### Free Usage 
+## Personal License
 
-|      **Target Entities** - Who can benefit      | --- |
+> Licensing Information
+
+| Item | - |
 | ---------------------------------- | --- |
-| Solo-Developers | **YES** |
-| Small Companies (max 3 developers) | **YES** |
-| StartUps (unlimited team) - Age <= 12mo (1year) | **YES** | 
-| [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
+| Domains | 1 |
+| Team Size | **3 developer** |
+| [Support](https://appseed.us/support/) & Updates: | 6 months |
 | --- | --- |
-| **End Products** | --- |
-| Paying Users | **YES** |
-| End-Product sale to users/companies | **YES** |
-| End-Product sale/usage for [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
-| Multiple copies (free/commercial products) | **YES** |
-| --- | --- |
-| **Support** | --- |
-| Github (issues tracker) | **YES** |
-| Email *support @ appseed.us* | **YES** |
-| **Discord** - [24/7 LIVE Service](https://discord.gg/fZC6hup) | **NO** |
-| --- | --- |
-| **Forbidden Usage** | --- |
-| Used in Companies - 4+ developers, less than 50 | **NOT Allowed** |
-| Used in Corporates - 50+ developers | **NOT Allowed** |
-| End-Products for Government - All Countries | **NOT Allowed** |
+| Product sale | **YES** |
+| Create single personal website/app | **YES** |
+| Create single website/app for client | **YES** |
+| Remove footer credits | **YES** |
 
 <br />
 
-### Basic License 
+## StartUp License
 
-> $49 - [Purchase](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KGZMCTYW5K7G2) (via PayPal)
+> Licensing Information
 
-
-|      **Target Entities** - Who can benefit      | --- |
+| Item | - |
 | ---------------------------------- | --- |
-| Companies - 4+ developers, less than 50 | **YES** |
+| Domains | 1 |
+| Team Size | **Up to 9 developers** |
+| [Support](https://appseed.us/support/) & Updates: | 12 months |
 | --- | --- |
-| **End Products** | --- |
-| License required for each End-Product | **YES** |
-| Paying Users | **YES** |
-| End-Product sale to users/companies | **YES** |
-| End-Product sale/usage for [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
-| End-Product for Government (all Countries) | **YES** |
-| --- | --- |
-| **Support** | --- |
-| Github (issues tracker) | **YES** |
-| Email *support @ appseed.us* | **YES** |
-| **Discord** - [24/7 LIVE Service](https://discord.gg/fZC6hup) | **YES** |
-| --- | --- |
-| **Forbidden Usage** | --- |
-| Single license for multiple End-Products | **NOT Allowed** |
-| Used in Corporates - 50+ developers | **NOT Allowed** |
+| Product sale | **YES** |
+| Create single personal website/app | **YES** |
+| Create single website/app for client | **YES** |
+| Remove footer credits | **YES** |
 
 <br />
 
-### Company License 
+## Company License
 
-> $199 - [Purchase](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JGWLUMVMMZ9S8) (via PayPal)
+> Licensing Information
 
-|      **Target Entities** - Who can benefit      | --- |
+| Item | - |
 | ---------------------------------- | --- |
-| Corporates - 50+ developers | **YES** |
+| Team Size | **Unlimited** |
+| [Support](https://appseed.us/support/) & Updates: | **Lifetime** |
 | --- | --- |
-| **End Products** | --- |
-| License required for each End-Product | **YES** |
-| Paying Users | **YES** |
-| End-Product sale to users/companies | **YES** |
-| End-Product sale/usage for [NGOs](https://en.wikipedia.org/wiki/Non-governmental_organization) | **YES** |
-| End-Product for Government - All Countries | **YES** |
-| --- | --- |
-| **Support** | --- |
-| Github (issues tracker) | **YES** |
-| Email *support @ appseed.us* | **YES** |
-| **Discord** - [24/7 LIVE Service](https://discord.gg/fZC6hup) | **YES** |
-| --- | --- |
-| **Forbidden Usage** | --- |
-| Single license for multiple End-Products | **NOT Allowed** |
+| Product sale | **YES** |
+| Create multiple personal websites/apps | **YES** |
+| Create multiple websites/apps for clients | **YES** |
+| Create SINGLE SaaS application | **YES** |
+| Remove footer credits | **YES** |
 
 <br />
 
